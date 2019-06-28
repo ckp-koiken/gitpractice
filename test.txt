@@ -3,4 +3,11 @@
 
 いきしちに
 branchを切ってみたよ >> develop branch
+<<<<<<< HEAD
 もっとbranchを有効活用したい
+=======
+
+
+
+樹形図にしてみよう
+>>>>>>> develop
