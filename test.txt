@@ -3,3 +3,5 @@
 
 いきしちに
 branchを切ってみたよ >> develop branch
+
+樹形図にしてみよう
