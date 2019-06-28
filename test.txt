@@ -3,3 +3,4 @@
 
 いきしちに
 branchを切ってみたよ >> develop branch
+もっとbranchを有効活用したい
