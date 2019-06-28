@@ -7,3 +7,6 @@ branchを切ってみたよ >> develop branch
 
 
 樹形図にしてみよう
+
+
+これで無事mergeできるかな
