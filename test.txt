@@ -15,3 +15,5 @@ branchを切ってみたよ >> develop branch
 
 これで無事mergeできるかな
 branchを一つ削除
+
+test
