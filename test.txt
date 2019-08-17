@@ -30,3 +30,6 @@ test3
 Atomでgithubと連携する練習をしてみる
 いい感じじゃないでっか
 test
+
+
+branchをわけて同時作業
