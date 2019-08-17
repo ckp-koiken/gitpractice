@@ -17,3 +17,6 @@ branchを切ってみたよ >> develop branch
 branchを一つ削除
 
 test
+
+
+Atomでgithubと連携する練習をしてみる
