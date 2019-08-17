@@ -29,4 +29,4 @@ test3
 
 Atomでgithubと連携する練習をしてみる
 いい感じじゃないでっか
-test4
+test
